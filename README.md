@@ -1,4 +1,4 @@
-# Recommender_Systems
+# Recommender Systems
 Recommender Systems Algorithms on different datasets
 
 1) Collaborative Filtering for users based on Movies and Rating data: Matches a user with other users with similar interests(similar users) and gives movie recommendations to the user based on what those similar users rated/liked (movie rating). The intuition being users with similar interests are likely to watch the same movie if it recommmended.
